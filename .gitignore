@@ -1,0 +1,41 @@
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
+.vs/
+*.swp
+.codegpt
+
+# Java server (SRC) - NetBeans/Ant build output
+SRC/build/
+SRC/dist/
+SRC/nbproject/private/
+*.class
+hs_err_pid*
+
+# Unity project (PROJECT_NRO_240)
+PROJECT_NRO_240/Library/
+PROJECT_NRO_240/Temp/
+PROJECT_NRO_240/Obj/
+PROJECT_NRO_240/obj/
+PROJECT_NRO_240/Logs/
+PROJECT_NRO_240/UserSettings/
+PROJECT_NRO_240/MemoryCaptures/
+PROJECT_NRO_240/Build/
+PROJECT_NRO_240/Builds/
+PROJECT_NRO_240/*.csproj
+PROJECT_NRO_240/*.sln
+PROJECT_NRO_240/*.suo
+PROJECT_NRO_240/*.user
+PROJECT_NRO_240/*.pidb
+PROJECT_NRO_240/*.booproj
+PROJECT_NRO_240/*.unityproj
+PROJECT_NRO_240/*.htm
+PROJECT_NRO_240/*.apk
+PROJECT_NRO_240/*.aab
+PROJECT_NRO_240/*.unitypackage
+PROJECT_NRO_240/sysinfo.txt
+PROJECT_NRO_240/crashlytics-build.properties
+
+# Built Unity client (Windows player build)
+LÂU CỒ MOD/
